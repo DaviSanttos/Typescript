@@ -4,7 +4,6 @@ enum Cores {
   AMARELO,
 }
 
-
 enum Cores {
   ROXO = 'ROXO',
   LARANJA = 111,
